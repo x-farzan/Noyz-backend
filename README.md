@@ -27,6 +27,24 @@ NOYZ is an innovative audio NFT marketplace where users can buy, sell, and manag
 
 ---
 
+## 📊 Database Schema & ERD
+The platform follows a structured schema to manage users, artists, NFTs, transactions, and finances efficiently.
+
+### **Entities and Relationships:**
+- **User:** Stores user details, authentication, and role (buyer/artist/admin).
+- **Artist:** Extended user profile with uploaded tracks, sales, and earnings.
+- **NFT:** Represents the audio track with metadata, price, and ownership history.
+- **Transaction:** Manages purchases, royalty distributions, and financial breakdowns.
+- **Wallet:** Tracks user balances, deposits, and withdrawals.
+- **Wishlist:** Stores favorite tracks added by users.
+- **Followers:** Manages artist-followers relationships.
+
+### **Entity-Relationship Diagram (ERD):**
+
+![Blank diagram](https://github.com/user-attachments/assets/01e7265d-2f3a-4ab1-82a9-7f86c44834aa)
+
+---
+
 ### 📌 Note:
 Though this project is inactive, the source code remains accessible for learning and reference purposes.
 
