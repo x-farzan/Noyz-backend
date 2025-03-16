@@ -43,7 +43,7 @@ The platform follows a structured schema to efficiently manage users, artists, N
 
 ### **Entity-Relationship Diagram (ERD):**
 
-![Blank diagram](https://github.com/user-attachments/assets/4cdd38ea-3337-4e63-b44a-26baa0c10055)
+![ERD NOYZ](https://github.com/user-attachments/assets/30eff317-73cd-4c4e-b1d0-ecac80553812)
 
 ---
 
