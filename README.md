@@ -46,5 +46,5 @@ The platform follows a structured schema to manage users, artists, NFTs, transac
 ---
 
 ### 📌 Note:
-Though this project is inactive, the source code remains accessible for learning and reference purposes.
+Though this project is inactive, the source code remains accessible for reference purposes.
 
